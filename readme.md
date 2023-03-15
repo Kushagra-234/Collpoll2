@@ -11,7 +11,7 @@ steps-
  # Clone repo
 
 
-steps fot runnng app
+steps for runnng application
 
 1-./mvnw package
 
