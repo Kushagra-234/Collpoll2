@@ -1,15 +1,17 @@
 
-Readme
+ # Readme
 
 # should have java installed in your system 
-(less version than 17 of java can show error)
+( preferrably 17 ,less version than 17 of java can show error)
 
-#install maven in your system 
+# install maven in your system 
 
-clone repo
+steps-
+
+ # clone repo
 
 
-steps
+steps fot runnng app
 1-./mvnw package
 2-./mvnw spring-boot:run -Dspring-boot.run.profiles=mysql
 3-java -jar target/*.jar
