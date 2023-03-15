@@ -1,25 +1,31 @@
 
  # Readme
 
-# should have java installed in your system 
+# Should have java installed in your system 
 ( preferrably 17 ,less version than 17 of java can show error)
 
-# install maven in your system 
+# Install maven in your system 
 
 steps-
 
- # clone repo
+ # Clone repo
 
 
 steps fot runnng app
+
 1-./mvnw package
+
 2-./mvnw spring-boot:run -Dspring-boot.run.profiles=mysql
+
 3-java -jar target/*.jar
 
 
 step 1 to build
+
 step 2 to connect to mysql
+
 step 3 to start
+
 
 go to localhost:8080
 
