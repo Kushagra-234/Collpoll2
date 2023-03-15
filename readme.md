@@ -32,7 +32,7 @@ go to localhost:8080
 
 changes to downgrade version of mysql-
 
-changing of version of mysql from 5.8 to 5.6
+changing of version of mysql from 5.8 to 5.7
 
 https://github.com/Kushagra-234/Collpoll2/blob/main/docker-compose.yml#L4-L5
 
