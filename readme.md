@@ -4,7 +4,7 @@
  
  updated readme 
  
- Added flyway
+q1- Added flyway
  
  
  
@@ -26,6 +26,9 @@
  
  
  ![pom](https://user-images.githubusercontent.com/100445287/225959842-d6323f34-98dc-46ed-889d-76634e11cbb4.jpeg)
+ 
+ 
+ q2-I added redis cache in java.configuration so that we can use redis cache instead of default cache which was being used 
 
  
 
