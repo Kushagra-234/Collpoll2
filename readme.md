@@ -8,7 +8,7 @@
  
  
  
- added dependency in pim.xml
+ added dependency in pom.xml
  
  https://github.com/Kushagra-234/Collpoll2/blob/dev2/pom.xml#L131=L135
  
