@@ -24,6 +24,10 @@
  Added files in application.mysql.properties
  https://github.com/Kushagra-234/Collpoll2/blob/dev2/src/main/resources/application-mysql.properties#L1-L12
  
+ 
+ ![pom](https://user-images.githubusercontent.com/100445287/225959842-d6323f34-98dc-46ed-889d-76634e11cbb4.jpeg)
+
+ 
 
 # Should have java installed in your system 
 ( preferrably 17 ,less version than 17 of java can show error)
